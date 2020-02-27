@@ -2,3 +2,5 @@ clean_data/
 data/
 rastreador/
 all_data.csv
+.ipynb_checkpoints/data_analysis-checkpoint.ipynb
+.ipynb_checkpoints/
